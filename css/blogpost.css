@@ -1,0 +1,52 @@
+.post-banner{
+    height: 500px;
+    overflow: hidden;
+}
+
+.post-banner img{
+    width: 100%;
+}
+
+.blogpost-meta{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.auth-info div{
+    padding: 4px;
+}
+
+.social-links svg{
+    padding: 4px;
+    height: 20px;
+    cursor: pointer;
+}
+
+.post-content{
+    /* background-color: khaki; */
+    padding: 15px;
+}
+
+.post-content h1{
+    text-align: center;
+    margin: 15px;
+}
+
+.post-content p{
+    padding: 10px;
+    font-size: 18px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+}
+
+.row div{
+    margin: 10px;
+    padding: 5px;
+}
+
+
